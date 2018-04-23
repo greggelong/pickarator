@@ -1,0 +1,33 @@
+﻿1	单茂轩	dān mào xuān	Alex 
+2	马深睿	mǎ shēn ruì	Ray 
+3	马思源	mǎ sī yuán	Evan 
+4	苏子蕴	sū zǐ yùn 	Keven
+5	王一赫	wáng yī hè 	Jerry
+6	王子厚	wáng zǐ hòu 	Amuro
+7	吴嘉铭	wú jiā míng 	Jason
+8	肖楚渔	xiāo chǔ yú 	Frank
+9	肖信淳	xiāo xìn chún 	Steven
+10	延明熹	yán míng xī 	Itachi
+11	张功泽	zhāng gōng zé 	Jerry
+12	张闻悦	zhāng wén yuè 	Barry
+13	赵景之	zhào jǐng zhī 	James
+14	周加睿	zhōu jiā ruì 	Jason
+15	周敬桓	zhōu jìng huán 	Jimmy
+16	周子申	zhōu zǐ shēn 	Joe
+17	谷歌	gǔ gē 	Tina
+18	何雨湉	hé yǔ tian 	Daisy
+19	化一凡	huà yī fán 	Amy
+20	姜昱辰	jiāng yù chén 	Yomi
+21	匡玘	kuāng qi	Eli
+22	李海萌	lǐ hǎi méng 	Christy
+23	李佩吉	lǐ pèi jí 	Peggy
+24	刘子乐	liú zǐ lè 	Jennifer
+25	卢月凝	lú yuè níng 	Jessy
+26	谈云怡	tán yún yí 	Vicky
+27	王欣雨	wáng xīn yǔ 	Josie
+28	王艺洁	wáng yì jié 	Susan
+29	杨靖真	yáng jìng zhēn 	Kathleen
+30	殷一诺	yīn yī nuò 	Emma
+31	于申玥	yú shēn yue 	Catrina
+32	张淏琳	zhāng hao lín 	Angelina
+33	朱璟瑶	zhū jing yáo 	Valarie
