@@ -21,7 +21,7 @@ file wth a time and date stamp.
 A Utf test file is the sorce for the class name.  
 As this was developed in China Chinese characters and pinyin are used.
 
-![alt text](student.png)
+![alt text](pick2.jpg)
 
 I run this application on an android python interpreter, so it can more easily be used in class
 
