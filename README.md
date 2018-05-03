@@ -25,4 +25,4 @@ As this was developed in China Chinese characters and pinyin are used.
 
 I run this application on an android python interpreter, so it can more easily be used in class
 
-[About](https://greggelong.github.io/kreisman/)
+[About Greg Kreisman](https://greggelong.github.io/kreisman/)
