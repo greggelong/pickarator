@@ -14,11 +14,11 @@ students over several class periods.
 
 ![alt text](pick1.jpg)
 
-The application also has an option to rate the students respose after picking.
+The application also has an option to rate the student's response after picking.
 The student is rated on a scale. The student's rating is saved to the class rating 
 file wth a time and date stamp.
 
-A Utf test file is the sorce for the class name.  
+A Utf-8 test file is the sorce for the class name.  
 As this was developed in China Chinese characters and pinyin are used.
 
 ![alt text](pick2.jpg)
